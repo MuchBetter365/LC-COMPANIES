@@ -1,0 +1,13 @@
+PUSH.sh
+_COORDINATION.md
+SPEC-CONTENU-PILIERS.md
+.codex-drafts/
+graphify-out/
+.env
+.env.*
+!.env.example
+gen-piliers.py
+CHECKPOINT-V3-SITE-EFD.md
+PLAN-PUBLICATION-HOSTINGER.md
+backup-2026-07-31/
+PROTOCOLE-ANTI-COLLISION.md
